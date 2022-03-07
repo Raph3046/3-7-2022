@@ -1,0 +1,25 @@
+ul {
+  border: solid #fa2338;
+  background-color: #fa2338;
+  padding-top: 25px;
+  padding-bottom: 25px;
+}
+img {
+  padding-left: 500px;
+}
+h1 {
+  padding-left: 450px;
+  font-size: 100px
+}
+h2 {
+  padding-left: 150px;
+  font-size: 40px;
+}
+li {
+  display: inline;
+  padding-left: 70px;
+}
+a {
+  text-decoration: none;
+  padding-left: 100px;
+}
